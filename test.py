@@ -11,4 +11,4 @@ b = 20
 def soma(x, y):
     return x + y
 
-print(soma (a + b))
+print(soma (a, b))
