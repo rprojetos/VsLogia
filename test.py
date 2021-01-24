@@ -6,7 +6,7 @@ print('Nome: Ricardo')
 print('Sobrenome: Ribeiro')
 
 a = 25 
-b = 15
+b = 25
 
 def soma(x, y):
     return x + y
